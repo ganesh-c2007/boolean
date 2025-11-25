@@ -52,6 +52,7 @@ RegisterNumber: 25017481 */
 
 
 RTL realization
+
 [xyz2.pdf](https://github.com/user-attachments/files/23737869/xyz2.pdf)
 
 Output: RTL
